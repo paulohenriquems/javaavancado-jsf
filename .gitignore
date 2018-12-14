@@ -1,0 +1,11 @@
+#pastas do workspace
+.metadata/
+.recommenders/
+#uso de expressao regular - upper ou lower case
+[Ss]ervers/
+RemoteSystemsTempFiles/
+
+#pastas de arquivos do projeto
+lib/
+.settings/
+*.class
